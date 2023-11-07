@@ -1,0 +1,23 @@
+
+{
+	"Print to console": {
+        "scope": "html",
+		"prefix": "mod",
+		"body": [
+			"<!DOCTYPE html>",
+			"<html>",
+			"<head>",
+			"    <meta charset=\"UTF-8\">",
+			"    <!-- Adomas Bernotas, EF-22/1 -->",
+			"    <link rel=\"next\" href=\"lab_8.html\">",
+			"    <title>Mano HTML Dokumentas</title>",
+			"</head>",
+			"<body>",
+			"</body>",
+			"</html>"
+		],
+		"description": "Log output to console"
+	}
+}
+
+
